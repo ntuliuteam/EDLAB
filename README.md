@@ -13,7 +13,7 @@ testing on the following devices.
 ## How to Use
 Clone this tool into your devices (PC, TX2, TPU/NCS2 host, etc.).
 ``` shell script
-git clone https://github.com/SHUO-HUAI/EDLAB.git
+git clone https://github.com/ntuliuteam/EDLAB.git
 ```
 Execute the *run.sh* script.
 ``` shell script
