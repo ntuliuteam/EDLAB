@@ -61,6 +61,8 @@ The models we provided comes from [here for classification](https://github.com/t
 The **imagenet_test** data set we provided is the first 5000 images from [IMAGENET_2012](http://image-net.org/) and the **coco2014_test** data set comes from [COCO 14 minival set](https://github.com/tensorflow/models/blob/master/research/object_detection/data/mscoco_minival_ids.txt).
 
 -------------------------------------------------------------------------------
+Copyright (c) HP-NTU Digital Manufacturing Corporate Lab, Nanyang Technological University, Singapore.
+
 If you use the tool or adapt the tool in your works or publications, you are required to cite the following reference:
 ```bib
 @article{kong2021edlab,
