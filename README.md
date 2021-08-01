@@ -9,6 +9,7 @@ testing on the following devices.
 - Google Edge TPU
 - Intel Neural Compute Stick 2
 
+![EDLAB](docs/edlab.png "EDLAB")
 
 ## How to Use
 Clone this tool into your devices (PC, TX2, TPU/NCS2 host, etc.).
@@ -59,6 +60,8 @@ The models we provided comes from [here for classification](https://github.com/t
 
 
 The **imagenet_test** data set we provided is the first 5000 images from [IMAGENET_2012](http://image-net.org/) and the **coco2014_test** data set comes from [COCO 14 minival set](https://github.com/tensorflow/models/blob/master/research/object_detection/data/mscoco_minival_ids.txt).
+
+![Example results](docs/results.png "Example results")
 
 -------------------------------------------------------------------------------
 Copyright (c) HP-NTU Digital Manufacturing Corporate Lab, Nanyang Technological University, Singapore.
