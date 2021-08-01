@@ -10,7 +10,7 @@ csv
 argparse  
 
 ### Configuration
-GPU configuration is listed in [gpu.properties](https://github-partner.azc.ext.hp.com/hp-ntu-corp-lab/AI-004/blob/master/EDLAB/scripts/gpu/gpu.properties). Please change it to facilitate your needs. The three features you can set are: 
+GPU configuration is listed in [gpu.properties](scripts/gpu/gpu.properties). Please change it to facilitate your needs. The three features you can set are: 
 batchsize  
 loadnumber  
 report_power: '0' or '1' // Yes or No  
