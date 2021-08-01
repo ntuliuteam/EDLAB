@@ -21,7 +21,7 @@ Execute the *run.sh* script.
 cd ./EDLAB
 bash run.sh <devices_name> <model_name>
 ```
-Devices name list can be found in the *run.sh* and  model name list is written down in this [config.properties](https://github-partner.azc.ext.hp.com/hp-ntu-corp-lab/AI-004/blob/master/EDLAB/config.properties). 
+Devices name list can be found in the *run.sh* and  model name list is written down in this [config.properties](config.properties). 
 The left term of each model first line is the model short name, which is feed to the *run.sh*.
 
 ## Add model
@@ -33,7 +33,7 @@ cd ./EDLAB
 mkdir ./models/<model_name>
 mv PATH/TO/frozen.pb ./models/<model_name>
 ```
-Second, write the information of this model into [config.properties](https://github-partner.azc.ext.hp.com/hp-ntu-corp-lab/AI-004/blob/master/EDLAB/config.properties).
+Second, write the information of this model into [config.properties](config.properties).
 ```properties
 <model_name>="classification/detection"
 <model_name>_name="name_of_your_frozen.pb"
@@ -54,7 +54,7 @@ After your command,
 ```shell script
 bash run.sh <devices_name> <model_name>
 ```
-all results will be saved in this [result.csv](https://github-partner.azc.ext.hp.com/hp-ntu-corp-lab/AI-004/blob/master/EDLAB/result.csv), in which EDP means the energy-delay product and LEDP mean loss-energy-delay product. Loss equals claimed accuracy minus the accuracy we got, which aims to find the accuracy loss of each edge accelerator under the same original model.
+all results will be saved in this [result.csv](result.csv), in which EDP means the energy-delay product and LEDP mean loss-energy-delay product. Loss equals claimed accuracy minus the accuracy we got, which aims to find the accuracy loss of each edge accelerator under the same original model.
 
 The models we provided comes from [here for classification](https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models) and [here for detection](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md#coco-trained-models), where you can find the claimed accuracy of each model.
 
