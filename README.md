@@ -1,4 +1,4 @@
-# EDLAB -- Edge Deep Learning Accelerator Benchmark
+# EDLAB (Edge Deep Learning Accelerator Benchmark)
 
 
 This is a tool that runs neural networks on different platforms automatically. Until now, we have finished 
