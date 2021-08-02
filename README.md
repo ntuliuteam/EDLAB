@@ -1,4 +1,4 @@
-# EDLAB 
+# EDLAB -- Edge Deep Learning Accelerator Benchmark
 
 
 This is a tool that runs neural networks on different platforms automatically. Until now, we have finished 
@@ -63,7 +63,8 @@ The **imagenet_test** data set we provided is the first 5000 images from [IMAGEN
 
 ![Example results](docs/results.png "Example results")
 
--------------------------------------------------------------------------------
+## Project Information
+
 Copyright (c) HP-NTU Digital Manufacturing Corporate Lab, Nanyang Technological University, Singapore.
 
 If you use the tool or adapt the tool in your works or publications, you are required to cite the following reference:
@@ -76,6 +77,9 @@ If you use the tool or adapt the tool in your works or publications, you are req
   publisher={IEEE}
 }
 ```
+Contributors:
+Hao Kong, Shuo Huai, Di Liu, Lei Zhang, Hui Chen, Shien Zhu, Shiqing Li, Weichen Liu, Manu Rastogi (HP), Ravi Subramaniam (HP), Madhu Athreya (HP), M. Anthony Lewis (HP).
+
 If you have any comments, questions, or suggestions please create an issue on github or contact us via email.
 
 Kong Hao <kong [DOT] hao [AT] ntu [DOT] edu [DOT] sg>
