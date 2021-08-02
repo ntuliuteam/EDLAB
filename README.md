@@ -82,4 +82,4 @@ Hao Kong, Shuo Huai, Di Liu, Lei Zhang, Hui Chen, Shien Zhu, Shiqing Li, Weichen
 
 If you have any comments, questions, or suggestions please create an issue on github or contact us via email.
 
-**Kong Hao** <kong [DOT] hao [AT] ntu [DOT] edu [DOT] sg>
+Hao Kong Hao <kong [DOT] hao [AT] ntu [DOT] edu [DOT] sg>
