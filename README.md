@@ -1,8 +1,6 @@
 # EDLAB (Edge Deep Learning Accelerator Benchmark)
 
-
-This is a tool that runs neural networks on different platforms automatically. Until now, we have finished 
-testing on the following devices.
+EDLAB is a benchmarking evalution tool, developed by the team of Weichen Liu at Nanyang Technological University with the collabration of HP Inc, to automatically evaluate different edge deep learning platforms. So far, EDLAB supports the following devices:
 - Desktop GPU
 - Desktop CPU
 - NVIDIA Jetson TX2
