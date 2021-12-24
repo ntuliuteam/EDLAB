@@ -83,3 +83,6 @@ If you have any comments, questions, or suggestions please create an issue on gi
 Hao Kong <kong [DOT] hao [AT] ntu [DOT] edu [DOT] sg>
 
 <!-- Updated by KongHao -->
+
+**It is a contribution made from the HP-NTU Corp Lab.
+2 public mirror repositories for it: [HP Inc.](https://github.com/HPInc/EDLAB), [ntuliuteam](https://github.com/ntuliuteam/EDLAB).**
